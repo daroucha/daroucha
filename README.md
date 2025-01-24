@@ -8,7 +8,7 @@
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Análise e Desenvolvimento de Sistema na Faculdade Digital Descomplica.
 - 💼 Trabalhando como Dev Fullstack no Grupo DM10.
-- 🌱 Aprendendo mais sobre Swift (iOS) e Flutter.
+- 🌱 Estudando: Swift e Go.
 
 ## Minhas Skills
 
