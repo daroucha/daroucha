@@ -2,9 +2,9 @@
 
 ## Sobre mim
 
-- 🤔 Explorando novas tecnologias e desenvolvendo low level.
+- 🤔 Explorando desenvolvimento low level.
 - 🎓 Estudando Análise e Desenvolvimento de Sistema na Faculdade Digital Descomplica.
-- 💼 Trabalhando como Dev Fullstack no Grupo DM10 com foco em back-end.
+- 💼 Trabalhando como Fullstack no Grupo DM10.
 - 🌱 Estudando no momento: Swift e Go.
 
 ## Minhas Skills
@@ -23,6 +23,7 @@
 **Utilidades**
 
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
 
 **DevOps**
 
