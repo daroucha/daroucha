@@ -42,12 +42,6 @@
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
 
-<br/>
-
-<a href="https://github.com/daroucha" title="Perfil do Daniel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daroucha&theme=dracula&show_icons=true" />
-</a>
-
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-danielaroucha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/daniel-aroucha)](https://linkedin.com/in/daniel-aroucha)
