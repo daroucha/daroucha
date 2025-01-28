@@ -2,9 +2,9 @@
 
 ## Sobre mim
 
+- 💼 Atuando desde 2019. Atualmente como Fullstack no Grupo DM10.
 - 🤔 Explorando desenvolvimento low level.
-- 🎓 Estudando Análise e Desenvolvimento de Sistema na Faculdade Digital Descomplica.
-- 💼 Trabalhando como Fullstack no Grupo DM10.
+- 🎓 Graduando em Análise e Desenvolvimento de Sistema.
 - 🌱 Estudando no momento: Swift e Go.
 
 ## Minhas Skills
