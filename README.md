@@ -1,20 +1,17 @@
-### Hello there 👋
-
-
-![](https://komarev.com/ghpvc/?username=daroucha&color=006bed)
+# Hello there 👋
 
 ## Sobre mim
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🤔 Explorando novas tecnologias e desenvolvendo low level.
 - 🎓 Estudando Análise e Desenvolvimento de Sistema na Faculdade Digital Descomplica.
-- 💼 Trabalhando como Dev Fullstack no Grupo DM10.
-- 🌱 Estudando: Swift e Go.
+- 💼 Trabalhando como Dev Fullstack no Grupo DM10 com foco em back-end.
+- 🌱 Estudando no momento: Swift e Go.
 
 ## Minhas Skills
 
 **Aplicações e dados**
 
-![C++](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php&logoColor=00599C)
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php&logoColor=00599C)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -37,7 +34,6 @@
 **Ferramentas de desenvolvimento**
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Eclipse](https://img.shields.io/badge/-Zed-333333?style=flat&logo=zed-ide&logoColor=2C2255)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
